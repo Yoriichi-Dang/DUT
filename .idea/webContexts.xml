@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebContextManager">
+    <option name="state">
+      <map>
+        <entry key="file://$PROJECT_DIR$/src/main/webapp/decorators/login.jsp" value="file://$PROJECT_DIR$/src/main/webapp/decorators" />
+        <entry key="file://$PROJECT_DIR$/src/main/webapp/views/admin/Course/dependentList.jsp" value="file://$PROJECT_DIR$/src/main/webapp/views/admin/Course" />
+        <entry key="file://$PROJECT_DIR$/src/main/webapp/views/admin/Course/list.jsp" value="file://$PROJECT_DIR$/src/main/webapp/views/admin/Course" />
+        <entry key="file://$PROJECT_DIR$/src/main/webapp/views/admin/Education/addListCourse.jsp" value="file://$PROJECT_DIR$/src/main/webapp/views/admin/Education" />
+        <entry key="file://$PROJECT_DIR$/src/main/webapp/views/admin/Education/listCourse.jsp" value="file://$PROJECT_DIR$/src/main/webapp/views/admin/Education" />
+        <entry key="file://$PROJECT_DIR$/src/main/webapp/views/admin/Student/list.jsp" value="file://$PROJECT_DIR$/src/main/webapp/views/admin/Student" />
+        <entry key="file://$PROJECT_DIR$/src/main/webapp/views/admin/Teacher/list.jsp" value="file://$PROJECT_DIR$/src/main/webapp/views/admin/Teacher" />
+        <entry key="file://$PROJECT_DIR$/src/main/webapp/views/student/RegisterCourse/registerCourse.jsp" value="file://$PROJECT_DIR$/src/main/webapp/views/student/RegisterCourse" />
+      </map>
+    </option>
+  </component>
+</project>
