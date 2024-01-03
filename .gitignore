@@ -37,5 +37,7 @@ build/
 ### Mac OS ###
 .DS_Store
 
+
 **/db.properties
+
 
